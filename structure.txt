@@ -1,0 +1,13 @@
+1.ID
+2.Environment
+3.Title
+4.Description
+5.STR
+6.Expected result
+7.Actual result
+8.Priority
+9.Severity
+10.Workaround
+11.Status
+12.Assigned
+13.Attachments
